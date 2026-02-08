@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://ashlaw1989.github.io/M4ReactIntro/",
+  "homepage": "https://ashlaw1989.github.io/M4ReactIntro",
 "scripts": {
   "dev": "vite",
   "build": "vite build",
